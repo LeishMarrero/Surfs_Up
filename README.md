@@ -5,10 +5,10 @@ Weather analysis for investor opening a Surf ad Shake shop, serving surfboards a
 ## Purpose
 The purpose of this project is to analize the temperature trends for June and December using SQLite, SQAlchemy, Jupyter Notebook, and VS Code.
 ## Results
-### Weather Results for June
+### Temperature Results for June
 ![Juneanalysis](Juneanalysis.png)
 
-### Weather Results for December
+### Temperature Results for December
 ![Decemberanalysis](Decemberanalysis.png)
 
 - The MAX temperature for June and December differ by 4°F
@@ -20,5 +20,12 @@ The purpose of this project is to analize the temperature trends for June and De
 - The AVG temperature for June and December differ by 3°F
   - June: 74.9°F
   - December: 71°F
+  
+### Precipitation Results for June
+![Juneprecipitation](Juneprecipitation.png)
+
+### Precipitation Results for December
+![Decprecipitation](Decprecipitation.png)
 
 ## Summary
+Looking at the temperature analysis, the weather is comparable year-round. When analyzing the precipitation in June and December, the MAX precipitation ranges from 4 inches to 6 inches of rain. The average precipitation ranges from 0.13 inches to 0.21 inches. According to these results, the Surf and Shake shop business is sustainable year-round.

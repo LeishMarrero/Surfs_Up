@@ -28,4 +28,4 @@ This project aims to analyze the temperature trends for June and December using 
 ![Decprecipitation](Decprecipitation.png)
 
 ## Summary
-Per the temperature analysis, the weather is comparable year-round. When analyzing the precipitation in June and December, the MAX precipitation ranges from 4 to 6 inches of rain. The average precipitation ranges from 0.13 inches to 0.21 inches. According to these results, the Surf and Shake shop business is sustainable year-round.
+Per the temperature analysis, the weather is comparable year-round. When analyzing the precipitation in June and December, the MAX precipitation ranges from 4 to 6 inches of rain. The average precipitation ranges from 0.13 to 0.21 inches. According to these results, the Surf and Shake shop business is sustainable year-round.
